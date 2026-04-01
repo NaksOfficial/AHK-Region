@@ -2,7 +2,7 @@
 ; АВТОМАТИЧЕСКОЕ ОБНОВЛЕНИЕ ЧЕРЕЗ GITHUB
 ; ============================================================
 global currentVersion := "2.0"
-global githubRawUrl := "https://raw.githubusercontent.com/ВАШ_АККАУНТ/AHK-Region/main/AHK/"
+global githubRawUrl := "https://raw.githubusercontent.com/NaksOfficial/AHK-Region/main/AHK/"
 global versionUrl := githubRawUrl . "Version.txt"
 global scriptUrl := githubRawUrl . "FSB1-8o.ahk"
 
