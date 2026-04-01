@@ -1,2 +1,0 @@
-# AHK-Region
-AHK Region
